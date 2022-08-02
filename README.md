@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohit Bhatia</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h2 align="left">Hi I'm Mohit Bhatia</h2>
+<h3 align="left">A passionate Python developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/themohitbhatia" target="blank"><img src="https://img.shields.io/twitter/follow/themohitbhatia?logo=twitter&style=for-the-badge" alt="themohitbhatia" /></a> </p>
+🔭 I’m currently working on **Problem Statement given by AICTE in Smart India Hackathon.**
 
-- 📫 How to reach me **mail.mohitbhatia@gmail.com**
+🌱 I’m currently learning **FastAPI**
+
+📫 How to reach me **mail.mohitbhatia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
