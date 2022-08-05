@@ -1,5 +1,5 @@
-<h2 align="left">Hi I'm Mohit Bhatia</h2>
-<h3 align="left">A passionate Python developer from India</h3>
+<h3 align="left">Hi I'm Mohit Bhatia</h3>
+<h4 align="left">A passionate Python developer from India</h4>
 
 🔭 I’m currently working on **Problem Statement given by AICTE in Smart India Hackathon.**
 
