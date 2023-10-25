@@ -1,5 +1,7 @@
 ## 💫 About Me:
-🔭  Actively seeking an internship in the field of **Data Analytics**<br> 🌱 Learning **Machine Learning**<br>📫 How to reach me - mail.mohitbhatia@gmail.com
+🔭  Actively seeking a role in the field of **Data Analytics**<br>
+🌱 Learning **Microsoft Fabric**<br>
+📫 How to reach me - mail.mohitbhatia@gmail.com
 
 
 ## 💻 Tech Stack:
