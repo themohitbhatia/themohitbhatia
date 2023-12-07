@@ -1,6 +1,6 @@
 ## 💫 About Me:
 🔭  Actively seeking a role in the field of **Data Analytics**<br>
-🌱 Learning **Microsoft Fabric**<br>
+🌱 Learning **Microsoft Fabric and Machine Learning**<br>
 📫 How to reach me - mohitbhatia.py@gmail.com
 
 
