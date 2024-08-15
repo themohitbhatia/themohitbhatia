@@ -1,7 +1,26 @@
 ## 💫 About Me:
-🔭  Actively seeking a role in the field of **Data Analytics**<br>
-🌱 Learning **Microsoft Fabric and Machine Learning**<br>
-📫 How to reach me - mohitbhatia.py@gmail.com
+
+🚀 Specialization in **Artificial Intelligence and Data Science**, with a solid grasp of **Data Preprocessing and Mining** using **Python** and **SQL**.
+
+📊 My expertise lies in **transforming data into actionable insights** through the **skilled use** of **Data Visualization tools** like **PowerBI**, and **Python** libraries such as **Matplotlib** and **Seaborn**.
+
+🛠️ Proficient in developing **ETL Pipelines**, I ensure seamless integration of data for comprehensive analysis.
+
+💻 I am currently employed as a **Data Analyst** at **ConTechub**. In my role as a Data Analyst at ConTecHub, I **automated data cleaning** and **validation processes** using **SQL functions and triggers**, **enhancing efficiency**. I developed Python scripts to automate tasks, significantly reducing manual and repetitive work.
+
+🧪 As part of the data cleaning team, I **performed quality assurance testing for Python scripts**, ensuring the reliability and effectiveness of data cleansing processes. Validated code was stored on **GitHub**, where I adeptly **managed the repository** for **seamless collaboration** and **version control**.
+
+📊 Leveraging my skills, I created insightful and visually appealing Dashboards for Marketing using Power BI, providing key stakeholders with actionable insights.
+
+⚙️ Successfully orchestrating the seamless transfer of data from **Amazon S3 Storage** to **RDS** through AppFlow, I facilitated efficient and secure data migration, with the integrated data then managed efficiently in Amazon RDS, contributing to streamlined data operations and enhancing accessibility.
+
+💻 Additionally, I have used **Microsoft Fabric** tools including **Data Pipeline**, **Lakehouse**, and **Dataflow Gen2**.
+
+💡 These experiences have honed my ability to drive strategic decisions through data analysis, and I am eager to apply these skills to new challenges.
+
+🌐 **READY FOR NEW OPPORTUNITIES** such as **Data Analyst, SQL Developer, Business Intelligence Analyst, Data Engineer and Automation Engineer** with a keen interest in learning machine learning and automation.
+
+✉️ **Reach me out at** _**mohitbhatia.py@gmail.com**_
 
 
 ## 💻 Tech Stack:
